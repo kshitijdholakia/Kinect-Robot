@@ -1,0 +1,48 @@
+2012 - B.E. Project Team 1: Simultaneous Localization and Mapping with a Mobile Robot and Kinect 
+================================================================================================
+
+Group Info:
+------------
++   Ashish Belokar (5513)
++   Kshitij Dholakia (5398)
++   Swapnil Kate (5528)
+
+Extension Of
+------------
+
+
+
+Project Description
+-------------------
+
+This is a reame template. It is written using markdown syntax. To know more about markdown you can alwats refer to [Daring Fireball](http://daringfireball.net/projects/markdown/basics). 
+You can preview how your mardown looks when rendered [here](http://daringfireball.net/projects/markdown/dingus)
+
+Students are requested to use this format for the sake of uniformity and convinience. Also we can parse these files and then index them for easy searching. 
+
+Technologies Used
+-------------------
+
++   Robot Operating System
++   Kinect
++   Arduino
++   Specialized Hardware
+   
+
+
+Installation Instructions
+=========================
+
+[ROS Electric](http://www.ros.org/wiki/electric/Installation/Ubuntu)
+[OpenNI](http://www.ros.org/wiki/openni_kinect)
+[Arduino IDE](http://arduino.cc/en/Main/Software)
+[links](http://example.com)
+
+References
+===========
+
+Please give references to importance resources. 
+
++ [Title](http://example.org)
++ [Title](http://example.org)
++ [Title](http://example.org)
