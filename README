@@ -17,10 +17,9 @@ Extension Of
 Project Description
 -------------------
 
-This is a reame template. It is written using markdown syntax. To know more about markdown you can alwats refer to [Daring Fireball](http://daringfireball.net/projects/markdown/basics). 
-You can preview how your mardown looks when rendered [here](http://daringfireball.net/projects/markdown/dingus)
 
-Students are requested to use this format for the sake of uniformity and convinience. Also we can parse these files and then index them for easy searching. 
+
+ 
 
 Technologies Used
 -------------------
@@ -53,6 +52,6 @@ References
 
 Please give references to importance resources. 
 
-+ [Title](http://example.org)
-+ [Title](http://example.org)
++ [Robot Operating System](http://www.ros.org)
++ [Arduino](http://www.arduino.cc)
 + [Title](http://example.org)
