@@ -3,6 +3,8 @@
 
 Group Info:
 ------------
+College: Fr. Conceicao Rodrigues College of Engineering, University of Mumbai
+-----------------------------------------------------------------------------
 +   Ashish Belokar (5513)
 +   Kshitij Dholakia (5398)
 +   Swapnil Kate (5528)
@@ -34,9 +36,17 @@ Installation Instructions
 =========================
 
 [ROS Electric](http://www.ros.org/wiki/electric/Installation/Ubuntu)
+*  sudo apt-get install ros-electric-desktop-full
+
 [OpenNI](http://www.ros.org/wiki/openni_kinect)
+*  sudo apt-get install ros-electric-openni-kinect
+
 [Arduino IDE](http://arduino.cc/en/Main/Software)
-[links](http://example.com)
+*  Download and Unpack the linked .tgz
+
+[rosserial](http://www.ros.org/wiki/rosserial_arduino)
+*  hg clone https://kforge.ros.org/rosserial/hg
+
 
 References
 ===========
