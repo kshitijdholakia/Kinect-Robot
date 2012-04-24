@@ -11,7 +11,7 @@ College: Fr. Conceicao Rodrigues College of Engineering, University of Mumbai
 
 Extension Of
 ------------
-
+[Implementation of slam_gmapping](http://ros.org/wiki/slam_gmapping) 
 
 
 Project Description
@@ -50,8 +50,12 @@ Installation Instructions
 References
 ===========
 
-Please give references to importance resources. 
++ [Robot Operating System Tutorials](http://www.ros.org/wiki/ROS/Tutorials)
 
-+ [Robot Operating System](http://www.ros.org)
-+ [Arduino](http://www.arduino.cc)
-+ [Title](http://example.org)
++ [Arduino Tutorials](http://arduino.cc/en/Tutorial/HomePage)
+
++ [OpenNI](http://www.openni.org/)
+
++ [Turtlebot Demos](http://ros.org/wiki/turtlebot_apps)
+
++ [Coordinate Frames Transformation](http://www.ros.org/wiki/tf)
