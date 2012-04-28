@@ -92,8 +92,6 @@ References
 	1. OpenSLAM, a collection of open source SLAM algorithms
 	[OpenSLAM](http://openslam.org)
 
-	2. SLAM for dummies, an Introduction to SLAM
-	[SLAM_for_dummies]
 
 
 
