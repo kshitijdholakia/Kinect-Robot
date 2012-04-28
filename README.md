@@ -1,15 +1,17 @@
-BE_Project_2012: 
-================
-## Title: Localization and Mapping with a Mobile Robot and Kinect ##
+BE_Project_2012 
+===============
+### Title: Localization and Mapping with a Mobile Robot and Kinect ###
+
 
 
 Group Info:
 ------------
+
 ### College: Fr. Conceicao Rodrigues College of Engineering, University of Mumbai ###
 
-+   Ashish Belokar 
-+   Kshitij Dholakia 
-+   Swapnil Kate 
++   Ashish Belokar (Computer Engineering)
++   Kshitij Dholakia (Computer Engineering) 
++   Swapnil Kate (Computer Engineering)
 
 
 
