@@ -44,8 +44,8 @@ Technologies Used
 +		Kinect
 +		Arduino
 +		Custom-made Robot:    
- 			*	Differential (rear-wheel) drive with a front castor-wheel   
-   		* Laptop-mountable Chasis
+		>Differential (rear-wheel) drive with a front castor-wheel   
+		>Laptop-mountable Chasis
 
 
 
