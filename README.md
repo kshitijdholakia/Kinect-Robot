@@ -1,5 +1,6 @@
-BE_Project_2012: Localization and Mapping with a Mobile Robot and Kinect 
-================================================================================================
+BE_Project_2012: 
+================
+## Title: Localization and Mapping with a Mobile Robot and Kinect ##
 
 
 Group Info:
