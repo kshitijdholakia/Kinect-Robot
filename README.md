@@ -51,15 +51,15 @@ Installation Instructions
 
 1. Install Robot Operating System on Ubuntu 11.10
 [ROS Electric](http://www.ros.org/wiki/electric/Installation/Ubuntu)   
-'''sudo apt-get install ros-electric-desktop-full '''
+```sudo apt-get install ros-electric-desktop-full```
 
 2. Install OpenNI, the Kinect driver, as a ROS Stack 
 [OpenNI](http://www.ros.org/wiki/openni_kinect)   
-'''sudo apt-get install ros-electric-openni-kinect'''
+```sudo apt-get install ros-electric-openni-kinect```
 
 3. Download the Arduino IDE, for programming the Arduino microcontroller 
 [Arduino IDE](http://arduino.cc/en/Main/Software)   
-Download and Unpack the linked .tgz file
+```sudo apt-get install arduino```
 
 4. Set up Arduino to run as a ROS node using rosserial 
 [rosserial](http://www.ros.org/wiki/rosserial_arduino)   
@@ -67,7 +67,7 @@ Download and Unpack the linked .tgz file
 
 5. Set up pointcloud_to_laserscan ROS package
 [pointcloud_to_laserscan](http://www.ros.org/wiki/pointcloud_to_laserscan)   
-'''hg clone https://kforge.ros.org/turtlebot/turtlebot'''
+```hg clone https://kforge.ros.org/turtlebot/turtlebot```
 
 
 
