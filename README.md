@@ -41,8 +41,8 @@ Technologies Used
 +		Kinect
 +		Arduino
 +		Custom-made Robot:
- 			>	Differential (rear-wheel) drive with a front castor-wheel
-   		> Laptop-mountable Chasis
+ 			+	Differential (rear-wheel) drive with a front castor-wheel
+   		+ Laptop-mountable Chasis
 
 
 
@@ -93,7 +93,7 @@ References
 	[OpenSLAM](http://openslam.org)
 
 	2. SLAM for dummies, an Introduction to SLAM
-	[SLAM_for_dummies](http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2005/projects/1aslam_blas_repo.pdf)
+	[SLAM_for_dummies]
 
 
 
