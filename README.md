@@ -63,7 +63,7 @@ Download and Unpack the linked .tgz file
 
 4. Set up Arduino to run as a ROS node using rosserial 
 [rosserial](http://www.ros.org/wiki/rosserial_arduino)   
-"hg clone https://kforge.ros.org/rosserial/hg"
+```hg clone https://kforge.ros.org/rosserial/hg```
 
 5. Set up pointcloud_to_laserscan ROS package
 [pointcloud_to_laserscan](http://www.ros.org/wiki/pointcloud_to_laserscan)   
