@@ -1,0 +1,13 @@
+digraph G {
+"/odom" -> "/base_link"[label="Broadcaster: /serial_node\nAverage rate: 57.206 Hz\nMost recent transform: 0.016 sec old \nBuffer length: 4.965 sec\n"];
+"/map" -> "/odom"[label="Broadcaster: /sonny_tf_broadcaster_init\nAverage rate: 10.208 Hz\nMost recent transform: 0.100 sec old \nBuffer length: 4.800 sec\n"];
+"/openni_rgb_frame" -> "/openni_rgb_optical_frame"[label="Broadcaster: /kinect_base_link3\nAverage rate: 10.193 Hz\nMost recent transform: -0.046 sec old \nBuffer length: 4.905 sec\n"];
+"/openni_camera" -> "/openni_rgb_frame"[label="Broadcaster: /kinect_base_link1\nAverage rate: 10.197 Hz\nMost recent transform: -0.013 sec old \nBuffer length: 4.805 sec\n"];
+"/odom" -> "/openni_camera"[label="Broadcaster: /sonny_tf_broadcaster_init\nAverage rate: 10.208 Hz\nMost recent transform: 0.100 sec old \nBuffer length: 4.800 sec\n"];
+"/openni_depth_frame" -> "/openni_depth_optical_frame"[label="Broadcaster: /kinect_base_link2\nAverage rate: 10.196 Hz\nMost recent transform: -0.013 sec old \nBuffer length: 4.806 sec\n"];
+"/openni_camera" -> "/openni_depth_frame"[label="Broadcaster: /kinect_base_link\nAverage rate: 10.197 Hz\nMost recent transform: -0.013 sec old \nBuffer length: 4.805 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1334866667.003"[ shape=plaintext ] ;
+ }->"/map";
+}
