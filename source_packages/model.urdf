@@ -1,0 +1,61 @@
+<robot name="sonny">
+<link name="base_link">
+	<visual>
+     <origin xyz="0 0 0.02" rpy="0 0 0" />
+     <geometry>
+       <box size="0.398 0.347 0.0" />
+     </geometry>
+     <material name="Cyan">
+       <color rgba="0 255 255 0.1"/>
+     </material>
+  </visual>
+</link>
+<link name="laptop_mount">
+	<visual>
+     <origin xyz="-0.142 0 0.0012" rpy="0 0 0" />
+     <geometry>
+       <box size="0.27 0.347 0.0" />
+     </geometry>
+     <material name="White">
+       <color rgba="1 1 1 0.1"/>
+     </material>
+   </visual>
+</link>
+<joint name="base_to_mount" type="fixed">
+    <parent link="base_link"/>
+    <child link="laptop_mount"/>
+    <origin xyz="0.1 0 .1"/>
+</joint>
+<link name="left_wheel">
+	<visual>
+		<origin xyz="-0.089 0.182 0.05" rpy="1.571 0 0" />
+	<geometry>
+		<cylinder length="0.02" radius="0.06" />
+	</geometry>
+	<material name="Black">
+       <color rgba="0 0 30 0.1"/>
+  </material>
+	</visual>
+</link>
+<joint name="base_to_wheel_left" type="fixed">
+    <parent link="base_link"/>
+    <child link="left_wheel"/>
+    <origin xyz="0 0 0"/>
+</joint>
+<link name="right_wheel">
+	<visual>
+		<origin xyz="-0.089 -0.182 0.05" rpy="1.571 0 0" />
+	<geometry>
+		<cylinder length="0.02" radius="0.06" />
+	</geometry>
+	<material name="Black">
+       <color rgba="0 0 0 0.1"/>
+  </material>
+	</visual>
+</link>
+<joint name="base_to_wheel_right" type="fixed">
+    <parent link="base_link"/>
+    <child link="right_wheel"/>
+    <origin xyz="0 0 0"/>
+</joint>
+</robot>
