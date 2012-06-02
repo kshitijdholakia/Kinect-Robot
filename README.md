@@ -96,8 +96,9 @@ References
 	2. [SLAM for dummies](http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2005/projects/1aslam_blas_repo.pdf), an introduction to SLAM
 	
 
-
-
+Demonstration Video
+=====================
++ [youtube link](http://www.youtube.com/watch?v=tBTLThDlULo&feature=colike)
 
 
 
