@@ -1,4 +1,4 @@
-BE_Project_2012 
+BE_Project
 ===============
 ### Title: Localization and Mapping with a Mobile Robot and Kinect ###
 
